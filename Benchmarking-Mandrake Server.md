@@ -8,8 +8,7 @@ This document provides a comprehensive guide to the benchmarking process perform
 - **Server Name**: Mandrake
 - **Location**: IIT Delhi
 - **GPU**: Tesla T4
-- **CUDA Version**: 12.1
-- **NVIDIA Driver Version**: 12.1
+- **NVIDIA Driver Version**: 530.41.03
 - **CUDA Runtime Version**: 11.3
 
 ## 2. Installed Tools and Versions
